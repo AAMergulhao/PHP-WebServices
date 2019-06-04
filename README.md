@@ -1,1 +1,1 @@
-Webservices utilizando PHP e MySQL.
+Implementation of a CRUD using PHP and MySQL.
